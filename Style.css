@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #f0f8ff;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+#output, #loopsOutput, #functionsOutput {
+    margin-top: 10px;
+    color: #2a52be;
+    font-weight: bold;
+}
